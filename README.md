@@ -1,6 +1,6 @@
 ## Hello World! Eu sou Andressa Mourão
 
-- 🌟 Em preparação para meu primeiro emprego na área de tecnologia #WomenInTech 
+- 🌟 Me aventurando no mundo da tecnologia desde 2022!
 - 🌱 Estou aprendendo python
 - 📫 Como entrar em contato? andressamouraom@gmail.com 
 - 😄 Pronomes: ela/dela
