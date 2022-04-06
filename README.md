@@ -1,7 +1,6 @@
 ## Hello World! Eu sou Andressa Mourão
 
-- 🌟 Me aventurando no mundo da tecnologia desde 2022!
-- 🌱 Front-end developer 
+- 🌟 Me aventurando no mundo da tecnologia desde 2022! 
 - 📫 Como entrar em contato? andressamouraom@gmail.com 
 - 😄 Pronomes: ela/dela
 
